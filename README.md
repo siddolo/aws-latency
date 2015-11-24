@@ -1,1 +1,39 @@
 # aws-latency
+
+```
+ec2.us-east-1.amazonaws.com 0.614
+ec2.us-west-1.amazonaws.com 0.323
+ec2.ap-southeast-1.amazonaws.com 0.740
+ec2.us-west-2.amazonaws.com 0.417
+ec2.sa-east-1.amazonaws.com 0.823
+ec2.eu-central-1.amazonaws.com 0.185
+ec2.eu-west-1.amazonaws.com 0.228
+ec2.ap-northeast-1.amazonaws.com 0.820
+ec2.ap-southeast-2.amazonaws.com 1.027
+sqs.us-east-1.amazonaws.com 0.243
+sqs.us-west-1.amazonaws.com 0.317
+sqs.ap-southeast-1.amazonaws.com 0.514
+sqs.us-west-2.amazonaws.com 0.355
+sqs.sa-east-1.amazonaws.com 0.573
+sqs.eu-central-1.amazonaws.com 0.065
+sqs.eu-west-1.amazonaws.com 0.060
+sqs.ap-northeast-1.amazonaws.com 0.544
+sqs.ap-southeast-2.amazonaws.com 0.707
+sdb.amazonaws.com 0.225
+sdb.us-west-1.amazonaws.com 0.316
+sdb.ap-southeast-1.amazonaws.com 0.749
+sdb.us-west-2.amazonaws.com 0.362
+sdb.sa-east-1.amazonaws.com 0.712
+sdb.eu-west-1.amazonaws.com 0.058
+sdb.ap-northeast-1.amazonaws.com 0.799
+sdb.ap-southeast-2.amazonaws.com 0.996
+sns.us-east-1.amazonaws.com 0.233
+sns.us-west-1.amazonaws.com 0.316
+sns.ap-southeast-1.amazonaws.com 0.703
+sns.us-west-2.amazonaws.com 0.374
+sns.sa-east-1.amazonaws.com 0.805
+sns.eu-central-1.amazonaws.com 0.072
+sns.eu-west-1.amazonaws.com 0.059
+sns.ap-northeast-1.amazonaws.com 0.812
+sns.ap-southeast-2.amazonaws.com 1.003
+```
